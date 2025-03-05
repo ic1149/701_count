@@ -29,7 +29,8 @@ p {
 h1 {
   font-size:10mm;
   margin: 0vw;
-  background-color: #061B2C;
+  /* background-color: #061B2C; */
+  background-image: linear-gradient(to bottom right, #229dd8, #061b2c);
   color:white;
   padding: 2vw;
   font-weight: 500;
