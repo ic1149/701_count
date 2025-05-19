@@ -3,7 +3,7 @@ function sleep(ms) {
 }
 
 async function unitcounting() {
-  const target = 7
+  const target = 6
   const duration = 1
   const interval = (duration / target) * 1000
   for (let i = 0; i <= target; i++) {
