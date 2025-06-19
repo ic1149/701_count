@@ -3,7 +3,8 @@ function sleep(ms) {
 }
 
 async function unitcounting() {
-  const target = 7
+  const target = document.getElementById("ten").childElementCount
+  console.log(target)
   const duration = 1
   const interval = (duration / target) * 1000
   for (let i = 0; i <= target; i++) {
