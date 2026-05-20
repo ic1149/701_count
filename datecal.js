@@ -38,7 +38,7 @@ async function unitcounting() {
     "701053",
     "701005",
     "701056",
-    "701021"
+    "701021",
     "701002"
   ] // ordered by time put into service, earliest first
   insert_list(units_ten,"ten")
