@@ -22,7 +22,7 @@ async function unitcounting() {
     "701036",
     "701031",
     "701017",
-    "701046 (GBR)",
+    "701046 (GBR logo)",
     "701034 (Red Rose)",
     "701042 (Nighthawk)",
     "701035",
@@ -40,7 +40,9 @@ async function unitcounting() {
     "701056",
     "701021",
     "701002",
-    "701008"
+    "701008",
+    "701060",
+    "701006 (GBR livery)"
   ] // ordered by time put into service, earliest first
   insert_list(units_ten,"ten")
 
